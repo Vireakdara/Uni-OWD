@@ -11,6 +11,8 @@
 
 ## Key Features
 
+![image](https://github.com/user-attachments/assets/0a90ba7a-ca51-435c-b6d9-4fe5f715eb06)
+
 ### 1. **Adaptive Decision Learning (AdaDL)**
 - **Lightweight CLIP Alignment**: Replaces cross-modality fusion (e.g., RepVL-PAN) with alignment in the CLIP latent space.
 - **Parameter Efficiency**: Uses **LoRA (Low-Rank Adaptation)** to fine-tune the CLIP text encoder, preserving generalization while adapting decision boundaries.
